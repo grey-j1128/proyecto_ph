@@ -1,1 +1,0 @@
-export const ID_ROL_ADMIN = 4
